@@ -9,6 +9,9 @@
 <p align="center">
 Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo nela a ponte entre sonhos e realidade, a ferramenta que transforma assimetrias em oportunidades. Movido por desafios, aprendizado contínuo e soluções que mudam vidas, busco não apenas evoluir, mas inspirar. Acredito em código que humaniza e inovação que democratiza. Vamos construir o futuro?
 </p>
+<div align="center">
+  <img src="../eye-12452_256.gif" alt="study gif" height="190px">
+</div>
 
 ---
 
