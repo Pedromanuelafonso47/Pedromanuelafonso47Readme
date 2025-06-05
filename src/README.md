@@ -9,14 +9,14 @@
 <p align="center">
 Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo nela a ponte entre sonhos e realidade, a ferramenta que transforma assimetrias em oportunidades. Movido por desafios, aprendizado contínuo e soluções que mudam vidas, busco não apenas evoluir, mas inspirar. Acredito em código que humaniza e inovação que democratiza. Vamos construir o futuro?
 </p>
-<div align="center">
-  <img src="../eye-12452_256.gif" alt="study gif" height="190px">
-</div>
 
 ---
+<div align="center">
+  <img src="../eye-12452_256.gif" height="120px">
+</div>
 
 <div align="center">
-  <img src="./src/Coding Hello World GIF.gif" alt="study gif" height="190px">
+  <img src="../glasses-17902_256.gif" alt="study gif" height="190px">
 </div>
 
 ---
@@ -79,3 +79,9 @@ Olá eu sou o Pedro Afonso👋Tecnologia é minha linguagem desde criança. Vejo
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odilonskt&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=39FF14&text_color=ffffff&border_radius=3&border_color=39FF14&icon_color=39FF14&theme=jolly" alt="GitHub stats">
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=odilonskt&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=39FF14&hide=html,scss,less&bg_color=000000&text_color=39FF14&border_radius=3&border_color=39FF14" alt="Most Used Languages">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=odilonskt&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=ffffff" alt="GitHub Streak" />
+</div>
+
+
